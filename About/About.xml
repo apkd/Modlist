@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ModMetaData>
+	<name>Modlist</name>
+	<url>https://github.com/apkd/Modlist/</url>
+	<author>apkd</author>
+	<targetVersion>0.16.1337</targetVersion>
+	<description>Saves installed mods to modlist.txt.</description>
+</ModMetaData>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<ModlistMod.Init>
+		<defName>Modlist_Mod_Init</defName>
+	</ModlistMod.Init>
+</Defs>
