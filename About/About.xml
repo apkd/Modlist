@@ -3,7 +3,7 @@
 	<name>Modlist</name>
 	<url>https://github.com/apkd/Modlist/</url>
 	<author>apkd</author>
-	<targetVersion>0.16.1337</targetVersion>
+	<targetVersion>0.17.1557</targetVersion>
 	<description>Exports the list of enabled mods (and the download links) to modlist.txt (modlist.html) in the RimWorld directory. Can be transparently added or removed without making anything explode. 
 
 Now also generates mod lists in HTML format.
