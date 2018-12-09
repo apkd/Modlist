@@ -15,7 +15,7 @@ namespace ModlistMod
 <head>
 <meta charset=""UTF-8"">
 <title>RimWorld modlist</title>
-<link rel=""stylesheet"" href=""https://cdn.rawgit.com/markdowncss/modest/master/css/modest.css"">
+<link rel=""stylesheet"" href=""https://cdn.jsdelivr.net/gh/markdowncss/modest@master/css/modest.css"">
 </head>
 <body>";
 		const string html_tail = "</body></html>";
